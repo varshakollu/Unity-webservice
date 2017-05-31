@@ -1,0 +1,20 @@
+{  
+    "id": 1,  
+    "projectName": "test project",  
+    "creationDate": "2015-03-14T18:16:38.703",  
+    "expiryDate": "2018-03-10T18:16:38.703",  
+    "enabled": true,  
+    "targetCountries": ["USA", "CANADA", "MEXICO", "BRAZIL"],  
+    "projectCost": 5.5,  
+    "projectUrl": "http://www.unity3d.com",  
+    "targetKeys": [
+    	{  
+            "number": 25,  
+            "keyword": "movie"  
+        },  
+        {  
+            "number": 30,  
+            "keyword": "sports"  
+        }
+    ]  
+} 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="2267" started-at="2017-05-31T21:37:43Z" finished-at="2017-05-31T21:37:45Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="2267" started-at="2017-05-31T21:37:43Z" finished-at="2017-05-31T21:37:45Z">
+      <class name="webservice.POSTAPITest">
+        <test-method status="PASS" signature="createTest()[pri:0, instance:webservice.POSTAPITest@36f6e879]" name="createTest" duration-ms="1926" started-at="2017-05-31T14:37:43Z" finished-at="2017-05-31T14:37:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTest -->
+      </class> <!-- webservice.POSTAPITest -->
+      <class name="webservice.JacksonAPITest">
+        <test-method status="PASS" signature="testJackson()[pri:0, instance:webservice.JacksonAPITest@35fb3008]" name="testJackson" duration-ms="316" started-at="2017-05-31T14:37:43Z" finished-at="2017-05-31T14:37:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJackson -->
+      </class> <!-- webservice.JacksonAPITest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
