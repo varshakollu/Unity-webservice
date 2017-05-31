@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<title>Unity Technologies</title>
-</head>
 <body>
 <h1 align="center">REST based webservice</h1>
 <p>In order to build the webservice, I used  Jersey RESTful Web Services framework. 
